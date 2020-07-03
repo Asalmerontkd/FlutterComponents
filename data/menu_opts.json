@@ -31,5 +31,11 @@
             "icon" : "slide",
             "texto": "Sliders"
         }
+        ,
+        {
+            "ruta" : "list",
+            "icon" : "list",
+            "texto": "Listas y Scroll"
+        }
     ]
 }
